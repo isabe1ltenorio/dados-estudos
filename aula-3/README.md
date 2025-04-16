@@ -34,6 +34,3 @@ Estão disponíveis para download abaixo, na seção [Base de Dados](#Base-de-Da
 # Base de Dados
 Baixe a base de dados (dataset): **[dataset](https://etecspgov-my.sharepoint.com/:f:/g/personal/bryan_lima01_etec_sp_gov_br/Etp5pniCws5NlUwber7kbqQB9hrdOMDa6y5kSvQq1CO4iw?e=Q7er5p)**
 
-# Resolução
-<!-- <a href="https://github.com/bryan-lima/intensivaopython-hashtagprogramacao/blob/master/aula-3/IntensivaoPython_Aula3_HashtagProgramacao.ipynb" target="_blank"><img src="https://img.shields.io/badge/Open%20-Jupyter%20Notebook-orange?logo=Jupyter" alt="Open Jupyter Notebook"/></a> -->
-<a href="https://github.com/bryan-lima/intensivaopython-hashtagprogramacao/blob/master/aula-3/IntensivaoPython_Aula3_HashtagProgramacao.ipynb" target="_blank"><img src="https://img.shields.io/badge/-Open%20Jupyter%20Notebook-orange?logo=Jupyter&labelColor=gray" alt="Open Jupyter Notebook"/></a>

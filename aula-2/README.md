@@ -12,5 +12,4 @@ Temos 1 base de dados com informações dos clientes, tanto clientes atuais quan
 # Base de Dados
 Baixe a base de dados (csv): **[ClientesBanco.csv](https://drive.google.com/file/d/1Tx11mh-P-zlJEazg0KnPeSIcTHH9KcNi/view?usp=sharing)**
 
-# Resolução
-<a href="https://colab.research.google.com/gist/bryan-lima/9d924cbc4314a6011c0b3a70a8957d14/intensivaopython-aula2-hashtagprogramacao.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+

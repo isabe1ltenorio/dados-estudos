@@ -17,6 +17,5 @@ Esse relatório é sempre enviado como um resumo de todos os dados disponíveis 
 # Base de Dados
 Baixe a base de dados (excel): **[Vendas.xlsx](https://drive.google.com/file/d/190zVF0Js2bI3QwlO94qoFsZThI8J6Vyt/view?usp=sharing)**
 
-# Resolução
-<a href="https://colab.research.google.com/gist/bryan-lima/5eb441f9fd1f085591f806fc104769f3/intensivaopython-aula1-hashtagprogramacao.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
